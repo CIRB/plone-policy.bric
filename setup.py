@@ -30,7 +30,7 @@ setup(name='policy.bric',
           'cirb.zopemonitoring',
           'collective.stomach',
           # -*- Extra requirements: -*-
-          'plonetheme.bric',
+          #'plonetheme.bric',
           'collective.ckeditor',
           'Products.PloneFormGen',
           'collective.plonefinder',
