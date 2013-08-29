@@ -40,7 +40,7 @@ setup(name='policy.bric',
           'collective.anysurfer',
           'collective.contentstats',
           'webcouturier.dropdownmenu',
-          #'cirb.blog',
+          'cirb.blog',
           #extra feature for blog
           'archetypes.linguakeywordwidget',
           'collective.categories',
