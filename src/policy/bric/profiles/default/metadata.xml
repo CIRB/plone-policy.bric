@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<metadata>
+  <version>0001</version>
+  <dependencies>
+      <dependency>profile-Products.LinguaPlone:LinguaPlone</dependency>
+      <dependency>profile-cirb.blog:default</dependency>
+      <dependency>profile-collective.portlet.twittermultistream:default</dependency>
+      <dependency>profile-collective.categories:default</dependency>
+      <dependency>profile-collective.portlet.oembed:default</dependency>
+      <dependency>profile-collective.diggdigg:default</dependency>
+      <dependency>profile-collective.portlet.socialnetworks:default</dependency>
+  </dependencies>
+</metadata>
