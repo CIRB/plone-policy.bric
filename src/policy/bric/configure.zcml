@@ -30,7 +30,6 @@
   <include package="collective.configviews" />
   <include package="collective.portlet.categories" />
   <include package="collective.portlet.keywords" />
-  <include package="cirb.zopemonitoring" />
   <include package="archetypes.linguakeywordwidget" />
   <include package="plone.app.theming" />
 

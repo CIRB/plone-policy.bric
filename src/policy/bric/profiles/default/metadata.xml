@@ -3,7 +3,7 @@
   <version>0001</version>
   <dependencies>
       <dependency>profile-Products.LinguaPlone:LinguaPlone</dependency>
-      <dependency>profile-cirb.blog:default</dependency>
+      <!--dependency>profile-cirb.blog:default</dependency-->
       <dependency>profile-collective.portlet.twittermultistream:default</dependency>
       <dependency>profile-collective.categories:default</dependency>
       <dependency>profile-collective.portlet.oembed:default</dependency>
