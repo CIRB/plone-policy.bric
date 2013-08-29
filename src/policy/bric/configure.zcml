@@ -10,30 +10,28 @@
 
   <genericsetup:registerProfile
       name="default"
-      title="policy.cirb"
+      title="policy.bric"
       directory="profiles/default"
-      description="Installs the policy.cirb package"
+      description="Installs the policy.bric package"
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
   
-  </genericsetup:upgradeSteps>
+  
   <!-- -*- extra stuff goes here -*- -->
-  <!--include package="plonetheme.cirb" /-->
+  <!--include package="plonetheme.bric" /-->
   <include package="Products.PloneFormGen" />
   <include package="collective.ckeditor" />
   <include package="collective.quickupload" />
   <include package="quintagroup.analytics" />
-  <include package="Products.PloneFormGen" />
   <include package="collective.anysurfer" />
   <include package="collective.contentstats" />
-  <include package="collective.recaptcha" />
-  <include package="Products.Collage" />
   <include package="webcouturier.dropdownmenu" />
-  <include package="collective.collage.portlets" />
   <include package="cirb.zopemonitoring" />
   <include package="collective.configviews" />
   <include package="collective.portlet.categories" />
   <include package="collective.portlet.keywords" />
   <include package="cirb.zopemonitoring" />
+  <include package="archetypes.linguakeywordwidget" />
+  <include package="plone.app.theming" />
 
 </configure>
