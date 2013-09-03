@@ -11,5 +11,6 @@
       <!--dependency>profile-plonetheme.bric:default</dependency-->
       <!--dependency>profile-collective.diggdigg:default</dependency-->
       <dependency>profile-collective.portlet.socialnetworks:default</dependency>
+      <dependency>profile-Products.PloneHelpCenter:default</dependency>
   </dependencies>
 </metadata>

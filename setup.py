@@ -55,7 +55,7 @@ setup(name='policy.bric',
           'collective.checktranslated',
           'plone.api',
           'plone.app.theming',
-          #'Products.PloneHelpCenter',
+          'Products.PloneHelpCenter',
       ],
       entry_points="""
       # -*- Entry points: -*-
