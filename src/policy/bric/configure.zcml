@@ -32,5 +32,10 @@
   <include package="collective.portlet.keywords" />
   <include package="archetypes.linguakeywordwidget" />
   <include package="plone.app.theming" />
+  <include package="collective.wpadmin" />
+  <include package="collective.contentrules.yearmonth" />
+  <include package="collective.recaptcha" />
+  <include package="plone.formwidget.recaptcha" />
+  <include package="Products.PloneHelpCenter" />
 
 </configure>
