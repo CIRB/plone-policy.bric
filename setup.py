@@ -59,7 +59,7 @@ setup(name='policy.bric',
           'collective.contentrules.yearmonth',
           'collective.recaptcha',
           'plone.formwidget.recaptcha',
-          'Products.PloneHelpCenter',
+#          'Products.PloneHelpCenter',
       ],
       entry_points="""
       # -*- Entry points: -*-
