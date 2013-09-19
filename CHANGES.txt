@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.4.4 (unreleased)
+1.4.4 (2013-09-19)
 ------------------
 
 - add Products.PloneHelpCenter.
