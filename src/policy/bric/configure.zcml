@@ -18,7 +18,7 @@
   
   
   <!-- -*- extra stuff goes here -*- -->
-  <!--include package="plonetheme.bric" /-->
+  <include package="plonetheme.bric" />
   <include package="Products.PloneFormGen" />
   <include package="collective.ckeditor" />
   <include package="collective.quickupload" />
