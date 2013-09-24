@@ -60,6 +60,7 @@ setup(name='policy.bric',
           'collective.recaptcha',
           'plone.formwidget.recaptcha',
           'Products.PloneHelpCenter',
+          'cirb.footersitemap',
       ],
       entry_points="""
       # -*- Entry points: -*-

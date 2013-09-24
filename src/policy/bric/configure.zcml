@@ -37,5 +37,6 @@
   <include package="collective.recaptcha" />
   <include package="plone.formwidget.recaptcha" />
   <!--include package="Products.PloneHelpCenter" /-->
+  <include package="cirb.footersitemap" />
 
 </configure>
