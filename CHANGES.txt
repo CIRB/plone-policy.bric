@@ -4,7 +4,7 @@ Changelog
 1.4.5 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- add plonetheme.bric.
 
 
 1.4.4 (2013-09-19)
