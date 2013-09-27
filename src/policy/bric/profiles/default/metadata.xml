@@ -13,5 +13,6 @@
       <dependency>profile-collective.portlet.socialnetworks:default</dependency>
       <dependency>profile-Products.PloneHelpCenter:default</dependency>
       <dependency>profile-webcouturier.dropdownmenu:default</dependency>
+      <dependency>profile-cirb.footersitemap:default</dependency>
   </dependencies>
 </metadata>
