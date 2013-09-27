@@ -15,16 +15,4 @@ i18n:domain="plone">
             <element>youtube|http://www.youtube.com/user/CIRBCIBG</element>
         </value>
     </record>
-    <records interface="plone.app.querystring.interfaces.IQueryField"
-    prefix="plone.app.querystring.field.Language">
-        <value key="title" i18n:translate="">Language</value>
-        <value key="description" i18n:translate="">The language of the content of an item</value>
-        <value key="enabled">True</value>
-        <value key="sortable">True</value>
-        <value key="operations">
-            <element>plone.app.querystring.operation.selection.is</element>
-        </value>
-        <value key="vocabulary">plone.app.vocabularies.SupportedContentLanguages</value>
-        <value key="group" i18n:translate="">Metadata</value>
-    </records>
 </registry>
