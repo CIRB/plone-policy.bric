@@ -19,4 +19,5 @@
     <depends name="Products.LinguaPlone"/>
   </genericsetup:importStep>
 
+
 </configure>

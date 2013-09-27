@@ -15,7 +15,15 @@
       description="Installs the policy.bric package"
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
-  
+
+  <genericsetup:upgradeStep
+      title="Upgrade policy.bric 1000"
+      description=""
+      source="0001"
+      destination="0002"
+      handler=".upgrades.upgrade_to_0002"
+      profile="policy.bric:default"/>
+
   
   <!-- -*- extra stuff goes here -*- -->
   <include package="plonetheme.bric" />
