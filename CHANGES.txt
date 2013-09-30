@@ -7,6 +7,7 @@ Changelog
 - add language criteria to collection. 
 - Add upgrade step.
 - Disabled livesearch.
+- Add PloneFormGen to metadata.xml.
 
 
 1.4.6 (2013-09-24)

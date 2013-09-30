@@ -14,5 +14,6 @@
       <dependency>profile-Products.PloneHelpCenter:default</dependency>
       <dependency>profile-webcouturier.dropdownmenu:default</dependency>
       <dependency>profile-cirb.footersitemap:default</dependency>
+      <dependency>profile-Products.PloneFormGen:default</dependency>
   </dependencies>
 </metadata>
