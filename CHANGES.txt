@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.4.7 (unreleased)
+1.4.7 (2013-09-30)
 ------------------
 
 - add language criteria to collection. 
