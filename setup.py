@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version = '1.4.9'
+version = '1.4.10.dev0'
 
 setup(name='policy.bric',
       version=version,
