@@ -43,6 +43,7 @@
   <include package="collective.wpadmin" />
   <include package="collective.contentrules.yearmonth" />
   <include package="collective.recaptcha" />
+  <include package="collective.z3cform.norobots" />
   <include package="plone.formwidget.recaptcha" />
   <!--include package="Products.PloneHelpCenter" /-->
   <include package="cirb.footersitemap" />
