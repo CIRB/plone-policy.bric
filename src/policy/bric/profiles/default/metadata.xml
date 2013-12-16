@@ -9,6 +9,7 @@
       <dependency>profile-collective.portlet.oembed:default</dependency>
       <dependency>profile-plone.app.theming:default</dependency>
       <dependency>profile-plonetheme.bric:default</dependency>
+      <dependency>profile-archetypes.linguakeywordwidget:default</dependency>
       <!--dependency>profile-collective.diggdigg:default</dependency-->
       <dependency>profile-collective.portlet.socialnetworks:default</dependency>
       <dependency>profile-Products.PloneHelpCenter:default</dependency>
