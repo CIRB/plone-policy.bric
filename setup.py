@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version = '1.4.9.dev0'
+version = '1.4.10.dev0'
 
 setup(name='policy.bric',
       version=version,
@@ -58,6 +58,7 @@ setup(name='policy.bric',
           'collective.wpadmin',
           'collective.contentrules.yearmonth',
           'collective.recaptcha',
+          'collective.z3cform.norobots',
           'plone.formwidget.recaptcha',
           'Products.PloneHelpCenter',
           'cirb.footersitemap',
